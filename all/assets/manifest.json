@@ -30,10 +30,10 @@
     }
   ],
   "id": "/?source=pwa",
-  "start_url": "https://hbg-it.github.io/billing-master-app-ui-demo/",
+  "start_url": "/billing-master-app-ui-demo/",
   "background_color": "#f5f5f9",
   "display": "standalone",
-  "scope": "/",
+  "scope": "/billing-master-app-ui-demo/",
   "theme_color": "#f5f5f9",
   "description": "Billing Master Software"
 }
